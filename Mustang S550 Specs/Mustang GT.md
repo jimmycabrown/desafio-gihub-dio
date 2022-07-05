@@ -6,7 +6,7 @@
 
 Coyote
 
-5.0L
+5.0L Naturally Aspirated
 
 460HP
 
